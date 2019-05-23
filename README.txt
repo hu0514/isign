@@ -81,3 +81,6 @@ isign 命令也可以指定各参数位置 具体请参照官网
 	</array>
 </dict>
 </plist>
+
+开发者工具登陆工具：Appuploader
+win签名工具：苹果应用一键签名工具 appresign  iosappsigner
