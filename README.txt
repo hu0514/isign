@@ -4,7 +4,7 @@ git clone https://github.com/apperian/isign
 sh version.sh
 python setup.py build
 python setup.py install
-3 从开发者账号下载.p12证书及.mobileprovision配置文件
+3 从开发者账号下载.p12证书及.mobileprovision配置文件（配置文件中添加需要安装软件的设备uuid）
 4 提取p12文件为pem格式
 isign_export_creds.sh *.p12
 生成的文件默认存放在 /root/.isign/目录
